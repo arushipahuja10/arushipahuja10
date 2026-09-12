@@ -67,5 +67,5 @@
 
 ### 🌆 Contribution City
 <p align="center">
-  <img src="https://raw.githubusercontent.com/[YOUR-USERNAME]/[YOUR-USERNAME]/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+  <img width=70% src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 </p>
