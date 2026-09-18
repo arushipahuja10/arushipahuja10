@@ -52,7 +52,7 @@
 
 ### 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,aws,docker,git,linux&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=py,js,c,cpp,java,html,css,react,tailwind,nodejs,express,fastapi,mysql,postgres,firebase,sqlite,git,github,postman,aws,docker,arduino&perline=7&theme=dark" alt="Tech Stack" />
 </p>
 
 <br/>
